@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpeechRecognizer</string>
+    <string name="info">Say Something</string>
+    <string name="start_rec_button">Start Recording</string>
+    <string name="speech_prompt"><![CDATA[<string name=\"speech_prompt\">Say something&#8230;</string>]]></string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>
